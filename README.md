@@ -1,23 +1,4 @@
-1) What is Artificial Intelligence (AI)?
-Artificial Intelligence is the field of computer science focused on creating machines or systems that can mimic human intelligence. This includes reasoning, learning, problem-solving, understanding language, and perception.
-
-
-2) How is Machine Learning (ML) different from Deep Learning (DL)?
-Machine Learning (ML) is a subset of AI where algorithms are trained to make predictions or decisions based on data. It involves manual feature extraction and simpler models like decision trees or support vector machines.
-
-Deep Learning (DL) is a subset of ML that uses neural networks with many layers (hence "deep"). It automatically extracts features and is especially powerful for handling unstructured data like images, audio, and text.
-
-3) Real-World Applications of Each:
-Field	Applications
-AI	- Chatbots (e.g., Siri, Alexa)
-      Self-driving cars
-      Fraud detection
-ML	- Spam email filtering
-      Product recommendations
-      Stock price prediction
-DL	- Facial recognition
-      Language translation
-      Medical image analysis
+Day 1:
 
 About Myself:
 
@@ -27,3 +8,24 @@ What I aim to gain for this internship:
 
 Gain a deep understanding of deep learning foundations and architectures, Build multiple end-to-end DL projects using real-world datasets
 , Get hands-on experience with tools like TensorFlow and PyTorch, Learn to document and showcase AI/DL projects professionally on GitHub, Explore areas like CNNs, RNNs, transformers, and generative models. as i bonus i might get an idea for my startup
+
+
+Day 2:
+
+Summary of Tasks
+Reviewed Python basics: variables, data types, lists, dictionaries, loops, if-else, functions, and a basic intro to classes.
+
+Practiced all concepts with hands-on examples in Google Colab.
+
+Explored NumPy for array creation, indexing, reshaping, and mean/sum operations.
+
+Worked with Pandas to read a real Apple stock CSV, clean it, and analyze it using head/tail, filtering, and describe().
+
+Added 3 mini tasks using NumPy & Pandas:
+
+✅ Calculated daily price range using NumPy.
+
+✅ Filtered rows where close > 150.
+
+✅ Computed average closing price.
+
