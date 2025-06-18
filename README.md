@@ -36,3 +36,19 @@ Added 3 mini tasks using NumPy & Pandas:
 
 ✅ Computed average closing price.
 
+Day 5: 
+
+Tuned a deep neural network on MNIST by varying epochs (5, 10, 15), batch sizes (32, 64, 128), and optimizers (Adam, SGD).
+
+Analyzed how different hyperparameters impacted training and validation performance.
+
+Compared training histories using loss and accuracy plots.
+
+Evaluated the best-performing model using confusion matrix, precision, recall, and F1-score.
+
+Learned when to prefer each metric depending on the use case (e.g., precision for spam detection, recall for disease diagnosis).
+
+Best configuration: 10 epochs, batch size 64, using Adam optimizer — yielded highest validation accuracy with minimal overfitting.
+
+
+
